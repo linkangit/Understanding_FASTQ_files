@@ -1,5 +1,5 @@
 # Understanding, Reading, and Inferring FASTQ Files: A Detailed Tutorial
-
+![](figure1.png)
 ## Introduction
 
 FASTQ files are the standard format for storing nucleotide sequence data along with quality scores from high-throughput sequencing platforms. Understanding these files is essential for anyone working in bioinformatics, genomics, or computational biology.
@@ -9,7 +9,7 @@ FASTQ files are the standard format for storing nucleotide sequence data along w
 FASTQ is a text-based format that stores both biological sequences (usually DNA or RNA) and their corresponding quality scores. It's an extension of the FASTA format that includes quality information for each base call.
 
 ## FASTQ File Structure
-
+![](figure2.png)
 Each sequence entry in a FASTQ file consists of exactly **four lines**:
 
 ### Line 1: Sequence Identifier
